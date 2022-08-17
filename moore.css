@@ -1,0 +1,60 @@
+.segments{
+    background-color: rgb(12, 38, 65);
+    text-align: center;
+    border-radius: 40px;
+}
+body{
+    font-size:25px;
+    color: dodgerblue;
+    background-color: rgb(186, 227, 243);
+    font-family: cursive;
+}
+main{
+    background-image: url(bluekeyboard.jpg);
+    border-radius: 5px;
+    margin: 12px;
+}
+header{
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(13, 28, 73) ;
+    margin: 5px;
+}
+nav{
+    color: black;
+}
+h1{
+    text-shadow:8,5,0,beige;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    border-right: 1px solid #bbb;
+    list-style: none;
+    margin-right: 5px;
+    padding-right: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    color: floralwhite;
+}
+a:active{
+    color: blue;
+}
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+}
+h4{
+    text-decoration: underline;
+}
+footer{
+    background-color: rgb(13, 28, 73);
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+}
